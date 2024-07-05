@@ -1,4 +1,4 @@
-This VBA code has been designed to automate the creation of a dynamic chart that visualizes events based on a time limit; exceeding this limit is categorized as risky and highlighted in the chart. It improves decision-making by enabling operations teams to quickly identify risky events. While the chart can also be created traditionally using the "=SI([@TIEMPO]>[@LÍMITE];[@TIEMPO];"")" function, manually creating it is time-consuming due to the need for chart editing.
+This Visual Basic code has been designed to automate the creation of a dynamic chart that visualizes events based on a time limit; exceeding this limit is categorized as risky and highlighted in the chart. It improves decision-making by enabling operations teams to quickly identify risky events. While the chart can also be created traditionally using the "=SI([@TIEMPO]>[@LÍMITE];[@TIEMPO];"")" function, manually creating it is time-consuming due to the need for chart editing.
 
 :octocat: Dynamic Graph
 
